@@ -1,2 +1,2 @@
 # Python_ex
-Python exercices.
+Python exercises.
